@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Flutter Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shihabksaleem&label=Profile%20views&color=0e75b6&style=flat" alt="shihabksaleem" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhi0216&label=Profile%20views&color=0e75b6&style=flat" alt="akhi0216" /> </p>
 
 - 🌱 I’m currently working as a **Flutter Developer**
 
